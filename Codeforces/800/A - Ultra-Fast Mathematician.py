@@ -1,0 +1,1 @@
+x,y = input(),input();print("".join([str(int(x[i] != y[i])) for i in range(len(x))]))

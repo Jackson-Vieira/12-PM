@@ -1,0 +1,1 @@
+s = sum([n in '74' for n in input()]);print("YES" if s==4 or s==7 else "NO")
